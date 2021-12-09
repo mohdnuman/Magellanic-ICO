@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import SimpleStorageContract from "./contracts/SimpleStorage.json";
 import MagellanictokenSale from "./contracts/MagellanictokenSale.json";
 import Magellanictoken from "./contracts/MagellanicToken.json";
 import getWeb3 from "./getWeb3";
